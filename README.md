@@ -22,6 +22,6 @@ https://github.com/hchiam/crash-course-ai-labs
 
 https://github.com/hchiam/ai_for_robotics
 
-https://github.com/afshinea/stanford-cs-230-deep-learning
+https://github.com/afshinea/stanford-cs-230-deep-learning --> use as a summary of the key points to learn faster while taking Andrew Ng's Coursera course on Machine Learning offered by Stanford: https://www.coursera.org/learn/machine-learning
 
 https://github.com/DragonflyStats/Coursera-ML

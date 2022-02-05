@@ -14,7 +14,11 @@ https://github.com/hchiam/text-similarity-test-microservice
 
 https://github.com/hchiam/learning-google-assistant
 
+https://github.com/hchiam/text-similarity-test
+
 https://github.com/hchiam/learning-annoy
+
+https://github.com/hchiam/cogLang-geneticAlgo
 
 https://github.com/hchiam/python-ml-web-app
 

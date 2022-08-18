@@ -31,3 +31,5 @@ https://github.com/afshinea/stanford-cs-230-deep-learning --> use as a summary o
 - https://github.com/hchiam/learning-octave may be helpful for that Coursera course too
 
 https://github.com/DragonflyStats/Coursera-ML
+
+https://github.com/hchiam/learning-github-copilot

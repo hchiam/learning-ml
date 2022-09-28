@@ -6,6 +6,8 @@ https://github.com/hchiam/machinelearning
 
 https://github.com/hchiam/webApp_MachineLearning_Gesture
 
+https://github.com/hchiam/learning-pytorch
+
 https://github.com/hchiam/learning-automl
 
 https://github.com/hchiam/learning-tensorflow

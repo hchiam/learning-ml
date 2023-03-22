@@ -4,7 +4,7 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 
 ## Some favourites
 
-https://github.com/hchiam/learning-tensorflow/tree/master/my_coursera_notes
+https://github.com/hchiam/learning-tf/tree/master/my_coursera_notes
 
 https://github.com/hchiam/machineLearning/blob/master/more_notes/googleMLCrashCourse.md
 

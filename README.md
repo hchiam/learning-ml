@@ -12,6 +12,8 @@ https://github.com/hchiam/machineLearning/blob/master/more_notes/misnomersAndCon
 
 https://github.com/hchiam/machineLearning/blob/master/more_notes/reinforcement_learning.md
 
+https://github.com/hchiam/learning-prompt-eng
+
 ## In no particular order
 
 https://github.com/hchiam/machinelearning

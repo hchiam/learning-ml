@@ -14,6 +14,8 @@ https://github.com/hchiam/machineLearning/blob/master/more_notes/reinforcement_l
 
 https://github.com/hchiam/learning-prompt-eng
 
+https://github.com/hchiam/learning-gpt4all
+
 ## In no particular order
 
 https://github.com/hchiam/machinelearning

@@ -16,6 +16,10 @@ https://github.com/hchiam/learning-prompt-eng
 
 https://github.com/hchiam/learning-gpt4all
 
+https://github.com/hchiam/learning-tfjs-umap
+
+https://github.com/hchiam/comment-analysis
+
 ## In no particular order
 
 https://github.com/hchiam/machinelearning
